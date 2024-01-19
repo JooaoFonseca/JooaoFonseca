@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on programming...
 - 📫 How to reach me ...
 
+<h3> align="center" Languages - Frameworks - Tools </h3>
+
 - <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,mysql,java,html,django,css,angular" />
