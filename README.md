@@ -12,7 +12,7 @@ Com experiência em desenvolvimento de aplicações robustas e escaláveis, tenh
 - Manipulação de bancos de dados relacionais com MySQL, JDBC e JPA
 - Desenvolvimento de interfaces gráficas com JavaFX
 - Desenvolvimento de aplicações web com Python e Django
-- Conhecimento em Análise de Dados com Python, tratamento, manipulação e visualização de dados com Pandas, realizações de operações de forma rápida com Numpy, análises com Power BI, Machine Learning, com foco em automatização de tarefas e otimização de tempo
+- Conhecimento sólido em Análise de Dados com Python, tratamento, manipulação e visualização de dados com Pandas, realizações de operações de forma rápida com Numpy, análises com Power BI, Machine Learning, com foco em automatização de tarefas e otimização de tempo
 
 Busco oportunidades para aplicar minhas habilidades e conhecimentos em projetos desafiadores, contribuindo para o sucesso das organizações.
 
@@ -31,6 +31,8 @@ Estou ansioso para conectar-me com outros profissionais de tecnologia e explorar
 - Power BI
 - Numpy
 - Pandas
+- Automação de Processos
+- Visualização de Dados
 
  🎓 Formação
 - Graduação em Ciências e Tecnologia
