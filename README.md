@@ -42,8 +42,6 @@ Estou ansioso para conectar-me com outros profissionais de tecnologia e explorar
 - <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,git,js,py,mysql,java,django,angular" />
-    <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
-    <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
   </a>
 </p>
 
