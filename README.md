@@ -4,40 +4,28 @@
 - 💞️ I’m looking to collaborate on programming...
 - 📫 How to reach me ...
 
-- Olá, me chamo João, sou desenvolvedor de software, apaixonado por tecnologia e inovação. Graduado em Ciências e Tecnologia e técnico em informática, atualmente estou finalizando minha graduação em Engenharia da Computação.
+- Analista de Dados com foco em Business Intelligence e Analytics, oferecendo suporte estratégico às áreas comercial e financeira. Atuação na construção de pipelines de ETL, modelagem de dados e consultas avançadas em SQL para consolidação e análise de grandes volumes de informação. Experiência com Python para automação e tratamento de dados, além do desenvolvimento de dashboards executivos no Power BI orientados a KPIs de vendas, margem, receita e performance operacional, apoiando decisões baseadas em dados e geração de valor para o negócio.
 
-Com experiência em desenvolvimento de aplicações robustas e escaláveis, tenho habilidades sólidas em:
+O que entrego:
 
-- Desenvolvimento de aplicações com Java, Spring Boot e Hibernate
-- Manipulação de bancos de dados relacionais com MySQL, JDBC e JPA
-- Desenvolvimento de interfaces gráficas com JavaFX
-- Desenvolvimento de aplicações web com Python e Django
-- Conhecimento sólido em Análise de Dados com Python, tratamento, manipulação e visualização de dados com Pandas, realizações de operações de forma rápida com Numpy, análises com Power BI, Machine Learning, com foco em automatização de tarefas e otimização de tempo
+Análises orientadas a negócio:
+Transformo dados em insights acionáveis por meio de dashboards executivos (Power BI) e análises em SQL, facilitando decisões estratégicas para áreas comerciais e financeiras.
 
-Busco oportunidades para aplicar minhas habilidades e conhecimentos em projetos desafiadores, contribuindo para o sucesso das organizações.
+Automação de processos:
+Estruturo pipelines de ETL, automatizo relatórios e integro múltiplas fontes de dados, reduzindo retrabalho e aumentando a confiabilidade das métricas.
 
-Estou ansioso para conectar-me com outros profissionais de tecnologia e explorar oportunidades de colaboração e crescimento.
+Inteligência de performance:
+Desenvolvo indicadores de vendas, margem, receita e produtividade, apoiando a identificação de oportunidades e otimização de resultados.
 
- 🎯 Habilidades
-- Java
-- Spring Boot
-- JDBC
-- JPA
-- JavaFX
-- Hibernate
-- MySQL
-- Python
-- Django
-- Power BI
-- Numpy
-- Pandas
-- Automação de Processos
-- Visualização de Dados
+Comunicação estratégica:
+Traduzo métricas técnicas em recomendações claras para lideranças e stakeholders, promovendo cultura data-driven.
 
- 🎓 Formação
-- Graduação em Ciências e Tecnologia
-- Técnico em Informática
-- Graduando em Engenharia da Computação
+Principais skills
+Python | SQL | Power BI | DAX | ETL | Dimensional Modeling | Microsoft Excel | Tableau | BigQuery | PostgreSQL | Data Visualization | Data Analysis | Agile Methodologies | Data Storytelling
+
+Para mais informações:
+joaomfso98@gmail.com
+84991694236
 
 <h3 align="center" > Languages - Frameworks - Tools </h3>
 
