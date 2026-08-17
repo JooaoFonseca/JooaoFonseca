@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming...
 - 📫 How to reach me ...
 
-- Analista de Dados com foco em Business Intelligence e Analytics, oferecendo suporte estratégico às áreas comercial e financeira. Atuação na construção de pipelines de ETL, modelagem de dados e consultas avançadas em SQL para consolidação e análise de grandes volumes de informação. Experiência com Python para automação e tratamento de dados, além do desenvolvimento de dashboards executivos no Power BI orientados a KPIs de vendas, margem, receita e performance operacional, apoiando decisões baseadas em dados e geração de valor para o negócio.
+Analista de Dados com foco em Business Intelligence e Analytics, oferecendo suporte estratégico às áreas comercial e financeira. Atuação na construção de pipelines de ETL, modelagem de dados e consultas avançadas em SQL para consolidação e análise de grandes volumes de informação. Experiência com Python para automação e tratamento de dados, além do desenvolvimento de dashboards executivos no Power BI orientados a KPIs de vendas, margem, receita e performance operacional, apoiando decisões baseadas em dados e geração de valor para o negócio.
 
 O que entrego:
 
