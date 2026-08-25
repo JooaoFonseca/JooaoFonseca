@@ -29,9 +29,15 @@ joaomfso98@gmail.com
 
 <h3 align="center" > Languages - Frameworks - Tools </h3>
 
-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,git,js,py,mysql,java,django,angular" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,,figma,py,r,postgres,git,js,py,mysql,angular" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://icons8.com.br/">
+    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
   </a>
 </p>
 
