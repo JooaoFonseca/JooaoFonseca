@@ -31,13 +31,15 @@ joaomfso98@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,,figma,py,r,postgres,git,js,py,mysql,angular" />
+  <a href="https://icons8.com.br/">
+    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,powerbi,figma,py,r,postgres,git,js,py,mysql,angular" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://icons8.com.br/">
-    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
+  
+    
   </a>
 </p>
 
